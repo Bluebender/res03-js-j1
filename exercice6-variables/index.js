@@ -1,0 +1,10 @@
+let number = 1386547282;
+console.log(number);
+let number2 = 0.29372651;
+console.log(number2);
+let number3 = -0.29372651;
+console.log(number3);
+let vrai = true;
+console.log(vrai);
+let fausse = false;
+console.log(fausse);
